@@ -1,6 +1,6 @@
-### Hi there 👋 i am ilham adi
+### Hi there 👋 i am irawan
 🔭 I’m currently working on knitto tekstil Indonesia
-- 🌱 I’m currently learning node js, javascript, express, mysql , typescript
+- 🌱 I’m currently learning node js, javascript, express, mysql , typescript,nest js
 - 👯 I’m looking to collaborate on everyone member in knitto corp
 - 💬 Ask me about love and sport
 - 📫 How to reach me: in github
